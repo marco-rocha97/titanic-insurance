@@ -18,22 +18,11 @@ Uma ideia e muito trabalho pela frente para chegar a conclusão que sim!
 
 Após um longo período de estudos, a seguinte proposta é apresentada para a diretoria:  
 
-Ajuste de preços de acordo com o perfil do cliente  
-Quanto maior o risco, maior o prêmio, logo  
 1- Aumento da tarifa para homens, famílias grandes (>= 2 pessoas) e mulheres entre 20-29 anos  
-
-Descontos para grupos específicos  
-Quanto menor o risco, maior a chance da cliente continuar pagando  
 2- Desconto para mulheres e para solteiros, especialmente mulheres solteiras  
-
-Campanhas de marketing  
-Menos risco = mais lucro, e já vimos que as mulheres normalmente gastam mais que os homens  
 3- Campanhas com foco em segurança da mulher  
 4- Parceria com a empresa naval, oferecendo pacotes junto com upgrade de classe  
-
-Revisão das margens de lucro  
-Como as pessoas mais ricas tendem a sobreviver mais, elas podem pagar um prêmio maior  
-Aqui vale uma pesquisa de mercado com as concorrentes!
+5- Revisão das margens de lucro  
 
 O racional você pode encontrar no [Jupyter Notebook](https://github.com/marco-rocha97/properties-prices-prediction/blob/main/titanic-insurance.ipynb)
 
