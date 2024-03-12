@@ -9,7 +9,7 @@ As ações na bolsa de valores não param de despencar
 
 Mas existe uma luz no fim do túnel (ou seria melhor um farol no horizonte?)
 
-E se utilizarmos esse acontecimento para impulsionar a empresa?
+E se utilizarmos esse acontecimento para impulsionar a empresa?  
 Coletar dados, tratar e analisar para aumentar as margens de lucro
 Impulsionar as campanhas, fazer parcerias, conseguir os clientes certos
 
