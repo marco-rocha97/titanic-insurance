@@ -10,13 +10,13 @@ As ações na bolsa de valores não param de despencar
 Mas existe uma luz no fim do túnel (ou seria melhor um farol no horizonte?)
 
 E se utilizarmos esse acontecimento para impulsionar a empresa?  
-Coletar dados, tratar e analisar para aumentar as margens de lucro
-Impulsionar as campanhas, fazer parcerias, conseguir os clientes certos
+Coletar dados, tratar e analisar para aumentar as margens de lucro  
+Impulsionar as campanhas, fazer parcerias, conseguir os clientes certos 
 
-Uma ideia e muito trabalho pela frente para chegar a conclusão que sim!
-É possível direcionar a empresa para aumentar as margens de lucro!
+Uma ideia e muito trabalho pela frente para chegar a conclusão que sim!  
+É possível direcionar a empresa para aumentar as margens de lucro!  
 
-Após um longo período de estudos, a seguinte proposta é apresentada para a diretoria:
+Após um longo período de estudos, a seguinte proposta é apresentada para a diretoria:  
 
 Ajuste de preços de acordo com o perfil do cliente  
 Quanto maior o risco, maior o prêmio, logo  
