@@ -14,7 +14,7 @@ Coletar dados, tratar e analisar para aumentar as margens de lucro
 Impulsionar as campanhas, fazer parcerias, conseguir os clientes certos 
 
 Uma ideia e muito trabalho pela frente para chegar a conclusão que sim!  
-É possível direcionar a empresa para aumentar as margens de lucro!  
+É possível direcionar a empresa para aumentar as margens!  
 
 Após um longo período de estudos, a seguinte proposta é apresentada para a diretoria:  
 
