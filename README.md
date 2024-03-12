@@ -1,11 +1,11 @@
 # Aqua-Guarda Seguradora 🛥️
 
 O ano é 1912 e você trabalha para uma das maiores seguaradores de navio do mundo, a Aqua-Guarda Seguradora  
-Ao chegar na empresa o assunto é um só, o naufrágio do Titanic!
-1.514 pessoas morreram, um desespero total
-O time de finanças já está em busca de empréstimo para arcar com as indenizações
-A diretoria tensa, pensando em demitir funcionários para cortar gastos
-As ações na bolsa de valores não param de despencar
+Ao chegar na empresa o assunto é um só, o naufrágio do Titanic!  
+1.514 pessoas morreram, um desespero total  
+O time de finanças já está em busca de empréstimo para arcar com as indenizações  
+A diretoria tensa, pensando em demitir funcionários para cortar gastos  
+As ações na bolsa de valores não param de despencar  
 
 Mas existe uma luz no fim do túnel (ou seria melhor um farol no horizonte?)
 
