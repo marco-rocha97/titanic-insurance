@@ -24,7 +24,7 @@ Após um longo período de estudos, a seguinte proposta é apresentada para a di
 4- Parceria com a empresa naval, oferecendo pacotes junto com upgrade de classe  
 5- Revisão das margens de lucro  
 
-O racional você pode encontrar no [Jupyter Notebook](https://github.com/marco-rocha97/properties-prices-prediction/blob/main/titanic-insurance.ipynb)
+O racional você pode encontrar no [Jupyter Notebook](https://github.com/marco-rocha97/titanic-insurance/blob/main/titanic.ipynb)
 
 E qualquer dúvida que tenha, me chame!
 [LinkedIn](https://www.linkedin.com/in/marcoapr/)
