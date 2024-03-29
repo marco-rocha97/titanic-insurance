@@ -1,6 +1,6 @@
 # Aqua-Guarda Seguradora 🛥️
 
-O ano é 1912 e você trabalha para uma das maiores seguaradores de navio do mundo, a Aqua-Guarda Seguradora  
+O ano é 1912 e você trabalha para uma das maiores seguradores de navio do mundo, a Aqua-Guarda Seguradora  
 Ao chegar na empresa o assunto é um só, o naufrágio do Titanic!  
 1.514 pessoas morreram, um desespero total  
 O time de finanças já está em busca de empréstimo para arcar com as indenizações  
